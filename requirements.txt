@@ -1,0 +1,14 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+seaborn
+tensorflow
+torch
+nltk
+opencv-python
+mediapipe
+pygame
+pyttsx3
+pillow
+

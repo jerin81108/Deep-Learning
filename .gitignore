@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+data/
+dataset/
+sign_dataset/
+*.npy
+*.h5
+*.keras
